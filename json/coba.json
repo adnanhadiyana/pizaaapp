@@ -1,0 +1,26 @@
+
+[
+{
+      "nama" : "Adnan",
+      "umur" : 21,
+      "nrp" : "173040035",
+      "lulus" : true,
+      "hobby" : ["coding","gaming"],
+      "pembimbing" : {
+            "pembimbing1" : "Hadiyana",
+            "pembimbing2" : "Adam"
+      }
+},
+{
+      "nama" : "Hadiyana",
+      "umur" : 20,
+      "nrp" : "173040009",
+      "lulus" : true,
+      "hobby" : ["coding","gaming"],
+      "pembimbing" : {
+            "pembimbing1" : "Adnan",
+            "pembimbing2" : "Permadi"
+      }
+}
+
+]
